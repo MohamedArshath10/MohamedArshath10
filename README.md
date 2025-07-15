@@ -16,18 +16,16 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 
 # 📂 My Projects
-- [Expense Tracker](https://github.com/YourUsername/expense-tracker)  
+- [Expense Tracker](https://github.com/MohamedArshath10/Fintrackr-Expense_tracking.git)  
   A full-stack web app to track income and expenses using MERN stack.
-- [Stock Market Predictor](https://github.com/YourUsername/stock-predictor)  
+- [Stock Market Predictor](https://github.com/MohamedArshath10/Stock-Prediction.git)  
   Predict stock prices using Jax neural networks.
-- [Ecommerce ](https://github.com/YourUsername/stock-predictor)  
+- [Ecommerce ](https://github.com/MohamedArshath10/Shoe-Garden-e-Commerce.git)  
   A frontend Ecommerce application using HTML, CSS and JavaScript.
-- [To-Do list](https://github.com/YourUsername/stock-predictor)  
+- [To-Do list](https://github.com/MohamedArshath10/To-Do-list-.git)  
   A frontend To-do list application using HTML, CSS and JavaScript.
-- [Weather-app](https://github.com/YourUsername/stock-predictor)  
+- [Weather-app](https://github.com/MohamedArshath10/Weather-app.git)  
   A frontend Weather application using HTML, CSS and JavaScript.
-- [Flappy-bird](https://github.com/YourUsername/stock-predictor)  
-  A frontend Flappy-bird application using HTML, CSS and JavaScript.
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MohamedArshath10&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -42,5 +40,3 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-
--->
