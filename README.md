@@ -20,12 +20,7 @@
   A full-stack web app to track income and expenses using MERN stack.
 - [Stock Market Predictor](https://github.com/MohamedArshath10/Stock-Prediction.git)  
   Predict stock prices using Jax neural networks.
-- [Ecommerce ](https://github.com/MohamedArshath10/Shoe-Garden-e-Commerce.git)  
-  A frontend Ecommerce application using HTML, CSS and JavaScript.
-- [To-Do list](https://github.com/MohamedArshath10/To-Do-list-.git)  
-  A frontend To-do list application using HTML, CSS and JavaScript.
-- [Weather-app](https://github.com/MohamedArshath10/Weather-app.git)  
-  A frontend Weather application using HTML, CSS and JavaScript.
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MohamedArshath10&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
